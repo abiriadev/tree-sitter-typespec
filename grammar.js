@@ -1,7 +1,7 @@
 /// <reference types="tree-sitter-cli/dsl" />
 // @ts-check
 
-module.export = grammar({
+module.exports = grammar({
 	name: 'TypeSpec',
 
 	rules: {
